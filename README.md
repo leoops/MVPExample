@@ -1,3 +1,3 @@
 # MVPExample
 
-Projeto modelo, em Swift, utilizando arquitetura MVPC.
+Projeto modelo, em Swift, utilizando arquitetura MVP.
